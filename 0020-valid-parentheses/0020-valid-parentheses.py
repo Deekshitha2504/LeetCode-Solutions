@@ -5,14 +5,12 @@ class Solution(object):
         :rtype: bool
         """
         stack=[]
-        ref={'(':')','[':']','{':'}'}
+        ref={')':'(',']':'[','}':'{'}
         for char in s:
-            if char in ref.keys():
-                stack.append(char)
+            if char in ref:
+                popped=stack.pop() if stack else '#'
+                if ref[char]!=popped:
+                    return False  
             else:
-                if not stack:
-                    return False
-                popped=stack.pop()
-                if ref[popped]!=char:
-                    return False     
+                stack.append(char)
         return not stack
