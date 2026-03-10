@@ -4,13 +4,13 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        dec=int(s,2)
+        carry=0
         count=0
-        while dec!=1:
-           if dec%2==0:
-              dec=dec/2
-              count+=1
-           else:
-              dec=dec+1
-              count+=1
-        return count
+        for i in range(len(s)-1, 0, -1):
+            digit=int(s[i])
+            if digit+carry==1:
+                carry=1
+                count+=2
+            else:
+                count+=1
+        return count+carry
