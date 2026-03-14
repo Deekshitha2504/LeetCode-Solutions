@@ -11,11 +11,11 @@ class Solution(object):
         :rtype: List[int]
         """
         nodee=[]
-        def inorder(root):
+        def traverse(root):
             if not root:
-               return
-            inorder(root.left)
+                return
+            traverse(root.left)
             nodee.append(root.val)
-            inorder(root.right)
-        inorder(root)    
-        return nodee
+            traverse(root.right)
+        traverse(root)    
+        return nodee        
