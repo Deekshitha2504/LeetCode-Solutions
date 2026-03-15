@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
 | ------- |
