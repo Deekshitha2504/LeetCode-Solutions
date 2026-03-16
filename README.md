@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
@@ -82,8 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
