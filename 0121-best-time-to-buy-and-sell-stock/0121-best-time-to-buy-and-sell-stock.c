@@ -1,15 +1,15 @@
 int maxProfit(int* prices, int pricesSize) {
     int maxdif=0;
-    int minp=prices[0];
-    for(int i=0;i<pricesSize;i++){
-        int curp=prices[i];
-        if(curp<minp){
-            minp=curp;
+    int min=prices[0];
+    for(int i=1; i<pricesSize; i++){
+        int cur=prices[i];
+        if(min>cur){
+            min=cur;
         }
-        if((curp-minp)>maxdif){
-            maxdif=curp-minp;
+        int curdif=cur-min;
+        if(curdif>maxdif){
+            maxdif=curdif;
         }
-
     }
     return maxdif;
 }
