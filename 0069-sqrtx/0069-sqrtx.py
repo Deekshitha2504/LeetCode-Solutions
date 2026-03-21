@@ -4,8 +4,9 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
+        if x<2:return x
         low=1
-        high=x
+        high=x//2
         ans=0
         while low<=high:
             mid=low+(high-low)//2
