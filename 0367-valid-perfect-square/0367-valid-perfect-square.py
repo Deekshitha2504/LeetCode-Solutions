@@ -4,11 +4,10 @@ class Solution(object):
         :type num: int
         :rtype: bool
         """
-        if num<2:return True
         low=1
-        high=num//2
+        high=num
         while low<=high:
-            mid=low+(high-low)/2
+            mid=low+(high-low)//2
             if mid**2==num:
                 return True
             elif mid**2<num:
