@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
