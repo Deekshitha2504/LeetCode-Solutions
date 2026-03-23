@@ -5,18 +5,13 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        s1=[]
-        s2=[]
-        for x in s:
-            if x=='#':
-                if not s1: continue
-                s1.pop()
-            else:
-                s1.append(x)
-        for y in t:
-            if y=='#':
-                if not s2: continue
-                s2.pop()
-            else:
-                s2.append(y)
-        return s1==s2                    
+        def check(s):
+            stack=[]
+            for char in s:
+                if char=='#':
+                    if not stack: continue
+                    stack.pop()
+                else:
+                    stack.append(char)
+            return stack        
+        return check(s)==check(t)                    
