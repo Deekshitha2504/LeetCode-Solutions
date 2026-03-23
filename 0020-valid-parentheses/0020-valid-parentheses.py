@@ -4,13 +4,12 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+        ref={'}':'{',')':'(',']':'['}
         stack=[]
-        ref={')':'(',']':'[','}':'{'}
-        for char in s:
-            if char in ref:
-                popped=stack.pop() if stack else '#'
-                if ref[char]!=popped:
-                    return False  
+        for x in s:
+            if x in ref:
+                if not stack or stack.pop()!=ref[x]: 
+                    return False
             else:
-                stack.append(char)
-        return not stack
+                stack.append(x)
+        return not stack    
