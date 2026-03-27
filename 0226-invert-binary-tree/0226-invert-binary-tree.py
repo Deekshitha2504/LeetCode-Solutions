@@ -13,9 +13,9 @@ class Solution(object):
 
         
 
-        if not root: return None 
-        root.left,root.right=root.right,root.left
-        self.invertTree(root.left)
-        self.invertTree(root.right)
+        if not root: return None #if no tree
+        root.left,root.right=root.right,root.left #swap the nodes along with sub nodes if there
+        self.invertTree(root.left) #do same taking left child
+        self.invertTree(root.right) #do same taking right child
 
-        return root
+        return root #return tree👌
