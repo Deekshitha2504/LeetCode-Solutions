@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
