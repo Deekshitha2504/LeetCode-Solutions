@@ -10,16 +10,16 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[List[int]]
         """
-        if not root: return[]
-        queue=deque([root])
-        visited=[]
-        while queue:
-            lvlSize=len(queue)
-            curLvl=[]
-            for x in range(lvlSize):
-                node=queue.popleft()
-                curLvl.append(node.val)
-                if node.left:queue.append(node.left)
-                if node.right:queue.append(node.right)
-            visited.append(curLvl)
-        return visited
+        if not root: return []
+        result=[]
+        que=deque([root])
+        while que:
+            length=len(que)
+            curlvl=[]
+            for x in range(length):
+                node=que.popleft()
+                curlvl.append(node.val)
+                if node.left: que.append(node.left)
+                if node.right: que.append(node.right)
+            result.append(curlvl)
+        return result        
