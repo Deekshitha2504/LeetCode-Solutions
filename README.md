@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
