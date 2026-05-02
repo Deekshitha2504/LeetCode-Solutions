@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,4 +277,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
