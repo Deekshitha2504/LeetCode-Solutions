@@ -1,14 +1,8 @@
-class Solution(object):
-    def isSubsequence(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        pt1=0
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
+        p=0
         for i in range(len(t)):
-            if pt1<len(s) and s[pt1]==t[i]:
-                pt1+=1
+            if p<len(s) and s[p]==t[i]:
+                p+=1
         
-        return pt1==len(s)
-                   
+        return p==len(s)
