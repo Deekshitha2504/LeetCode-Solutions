@@ -1,20 +1,16 @@
-class Solution(object):
-    def mySqrt(self, x):
-        """
-        :type x: int
-        :rtype: int
-        """
-        if x<2:return x
-        low=1
-        high=x//2
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        l,r=0,x//2
         ans=0
-        while low<=high:
-            mid=low+(high-low)//2
-            if mid**2==x:
+        if x<2:
+            return x
+        while l<=r:
+            mid=l+(r-l)//2
+            if mid*mid==x:
                 return mid
-            elif mid**2<x:
+            elif mid*mid<x:
                 ans=mid
-                low=mid+1
-            elif mid**2>x:
-                high=mid-1
-        return ans                
+                l=mid+1
+            else:
+                r=mid-1
+        return ans            
