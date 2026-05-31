@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2126-destroying-asteroids](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [2126-destroying-asteroids](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 ## String
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2126-destroying-asteroids](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
