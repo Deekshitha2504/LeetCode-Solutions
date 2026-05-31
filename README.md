@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -364,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
