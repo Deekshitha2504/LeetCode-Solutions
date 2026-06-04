@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
