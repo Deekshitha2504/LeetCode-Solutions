@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
