@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -405,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
