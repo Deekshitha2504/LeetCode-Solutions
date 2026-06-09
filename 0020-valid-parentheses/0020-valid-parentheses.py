@@ -1,15 +1,11 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        ref={'}':'{',')':'(',']':'['}
+class Solution:
+    def isValid(self, s: str) -> bool:
+        mapp={')':'(',']':'[','}':'{'}
         stack=[]
-        for x in s:
-            if x in ref:
-                if not stack or stack.pop()!=ref[x]: 
-                    return False
+        for b in s:
+            if b not in mapp:
+                stack.append(b)
             else:
-                stack.append(x)
-        return not stack    
+                if not stack or mapp[b]!=stack.pop():
+                    return False
+        return not stack 
