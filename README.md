@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0767-reorganize-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [2126-destroying-asteroids](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0767-reorganize-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0767-reorganize-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0767-reorganize-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/Deekshitha2504/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
