@@ -1,13 +1,9 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        mapp={}
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        res={}
         for word in strs:
-            s2="".join(sorted(word))
-            if s2 not in mapp:
-                mapp[s2]=[]
-            mapp[s2].append(word)    
-        return list(mapp.values())    
+            s="".join(sorted(word))
+            if s not in res:
+                res[s]=[]
+            res[s].append(word)
+        return list(res.values())    
